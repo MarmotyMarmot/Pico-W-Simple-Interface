@@ -37,6 +37,7 @@ Before moving files to pico three things should be passed into the secrets.py:
  - Network SSID
  - Network password
  - OpenWeather key (easily obtainable from their site)
+   
 In the next step, all files from this repository should be saved into Pico's memory.
 
 ## Disclaimer
